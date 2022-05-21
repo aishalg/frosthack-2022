@@ -1,4 +1,4 @@
-# frosthack-2022
+# Frosthack-2022
 
 ## Build Setup
 
