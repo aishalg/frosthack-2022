@@ -67,3 +67,11 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+### `Project Idea`
+
+We aim at building a platform template, which can be used by any organization for a centralized location of all the education-related things. In Today's era, where classrooms have turned out to be in smartphones, students tend to lose their focus, EduMate provides an option of the virtual classroom where students can actually  
+experience a real-time classroom.
+
+### `Video Description`
+https://youtu.be/fqcJgWeGNcc
